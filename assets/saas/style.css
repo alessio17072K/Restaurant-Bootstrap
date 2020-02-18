@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+    
+
+/*font-family: 'Chewy', cursive;*/
+li{
+    display: inline;
+    margin-right: 2em;
+}
+
+.logo{
+    width: 4em;
+    height: auto;
+}
+
+ul{
+    display: inline;
+    font-family: 'Chewy', cursive;    
+}
+
+nav{
+    margin-top: 1em;
+    float: right;
+    color: white;
+    
+}
+
+.section1{
+    background-color: #6a84b7;
+
+    
+}
+
+.section2{
+    background-image: url(/assets/img/banniere001.jpg);
+    background-size: cover;
+    text-align: center;
+
+}
+
+.section2 div img{
+    width: 10%;
+    width: 40%;
+    
+}
+
+.section2 div p{
+    font-family: 'Chewy', cursive;
+    color: white;
+    font-size: 2em;
+}
+
+.section3 .container{
+    background-color: #fec107;
+    padding-top: 2em;
+    padding-bottom: 4em;
+}
+
+.section3{
+    background-color: #6a84b7;
+    background-image: url(/assets/img/testbg02.png);
+    margin-top: -1em;
+}
+
+.video{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section3 div p{
+    color: white;
+}
+
+.carte1, .carte2{
+    display: inline;
+}
+
+.fondblanc{
+    background-color: #7b95c8!important;
+}
+
+
+
+
+.button1{
+    background-color: #fec107;
+    
+
+}
+
+.textnoir{
+    color: black!important;
+}
+
+.cardblanc{
+    background-color: white;
+}
+
+.titrebleu{
+    color:#7b95c8;
+}
+ 
+.carte3{
+    background-color: white;
+    border-radius: 0.2em;
+}
+
+footer p{
+    display: inline!important;
+    color: rgba(255, 255, 255, 0.61);
+    margin-right: 2em;
+    padding: 1em;
+    font-family: 'Chewy', cursive;
+}
+
+.section4{
+    background-color: #6a84b7;
+    text-align: center;
+
+}
+
+.logo1{
+    height: 2em;
+    
+}
+
+nav ul li a{
+    color: white;
+}
+
+.fontimage{
+    background-color: #6a84b78c;
+    border-radius: 0.5em;
+
+   
+}
+
+.imgcarr{
+    border: 1em solid #6a84b7;
+    padding-bottom: 4em;
+    padding-top: 2em;
+}
+
+.imagecarrou{
+    border: 0.2em solid #6a84b7;
+    
+}
+
+
+
+.cuistot{
+    background-image: url(/assets/img/image_header.jpg);
+    background-size: cover;
+}
+
+.formulaire1{
+    background-color: rgba(255, 255, 255, 0.651);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1em;
+    font-family: 'Chewy', cursive;
+    padding: 2em;
+
+}
+
+input{
+    border: 1px solid black!important;
+}
+
+.exam{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: static;
+    
+}
